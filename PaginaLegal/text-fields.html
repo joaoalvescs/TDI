@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <form action="1">
+        First name: <input type="text" name="firstname" /><br />
+        Last name: <input type="password" name="lastname" />
+    </form>
+    <p><b>Note:</b> The form itself is not visible. Also note that the default width of a text field is 20 characters.</p>
+
+    <form action="2">
+        <input type="radio" name="sex" value="male"/> Male </br>
+        <input type="radio" name="sex" value="female"/> Female </br>
+    </form>
+    <p> <b> When a user clicks on a radio-button, it becomes checked, and all other radio-buttons with equal name
+            become unchecked.
+    </b></p>
+    <form action="3">
+        <input type="checkbox" name="vehicle" value="Bike"/> I have a bike <br/>
+        <input type="checkbox" name="vehicle" value="Car"/> I have a car <br/>
+        <input type="checkbox" name="vehicle" value="Subway"/> I use the subway <br/>
+    </form>
+    <form action="4"> 
+        <select name="carros" size="3" multiple>
+            <option value="honda"> Honda </option>
+            <option value="fiat"> Fiat </option>
+            <option value="audi"> Audi </option>
+        </select>
+        <br> <br>
+        <input type="submit">
+    </form>
+    <form action="5">
+        <textarea name="message" style="width:200px;height:600px;"> Hora de usar textarea no formulário. </textarea>
+        <br>
+        <input type="submit">
+    </form>
+</body>
+</html>
