@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Primeiro
 {
-    class Program
+    class Operacao
     {
         static void Main(string[] args)
         {
