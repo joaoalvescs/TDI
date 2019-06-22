@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace ConsoleApp1
 {
@@ -56,6 +57,23 @@ namespace ConsoleApp1
             Console.WriteLine("Números que permaneceram da fila.");
             objeto2.Dequeue();
             foreach (Object obj in objeto2)
+            {
+                Console.WriteLine(obj);
+            }
+            HashSet<int> objeto3 = new HashSet<int>();
+            objeto3.Add(5);
+            objeto3.Add(7);
+            objeto3.Add(9);
+            objeto3.Add(4);
+            objeto3.Add(5);
+            Console.WriteLine("Números adicionados no hashset.");
+            foreach (Object obj in objeto3)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine("Números que permaneceram do hashset.");
+            objeto3.Remove(4);
+            foreach (Object obj in objeto3)
             {
                 Console.WriteLine(obj);
             }
