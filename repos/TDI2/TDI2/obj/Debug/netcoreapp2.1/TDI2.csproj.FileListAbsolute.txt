@@ -1,0 +1,11 @@
+C:\Users\201420014712\source\repos\TDI2\TDI2\obj\Debug\netcoreapp2.1\TDI2.csprojAssemblyReference.cache
+C:\Users\201420014712\source\repos\TDI2\TDI2\obj\Debug\netcoreapp2.1\TDI2.csproj.CoreCompileInputs.cache
+C:\Users\201420014712\source\repos\TDI2\TDI2\obj\Debug\netcoreapp2.1\TDI2.AssemblyInfoInputs.cache
+C:\Users\201420014712\source\repos\TDI2\TDI2\obj\Debug\netcoreapp2.1\TDI2.AssemblyInfo.cs
+C:\Users\201420014712\source\repos\TDI2\TDI2\bin\Debug\netcoreapp2.1\TDI2.deps.json
+C:\Users\201420014712\source\repos\TDI2\TDI2\bin\Debug\netcoreapp2.1\TDI2.runtimeconfig.json
+C:\Users\201420014712\source\repos\TDI2\TDI2\bin\Debug\netcoreapp2.1\TDI2.runtimeconfig.dev.json
+C:\Users\201420014712\source\repos\TDI2\TDI2\bin\Debug\netcoreapp2.1\TDI2.dll
+C:\Users\201420014712\source\repos\TDI2\TDI2\bin\Debug\netcoreapp2.1\TDI2.pdb
+C:\Users\201420014712\source\repos\TDI2\TDI2\obj\Debug\netcoreapp2.1\TDI2.dll
+C:\Users\201420014712\source\repos\TDI2\TDI2\obj\Debug\netcoreapp2.1\TDI2.pdb
